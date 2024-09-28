@@ -57,7 +57,7 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 
 ## Deployment
 
-The website is deployed using GitHub Pages and can be accessed at [https://alkaison.github.io/Health-Plus/](https://alkaison.github.io/Health-Plus/).
+
 
 ## Getting Started
 
